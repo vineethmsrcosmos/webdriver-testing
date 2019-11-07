@@ -1,0 +1,26 @@
+{
+  "details": {
+    "signup": {
+      "email": "vineeth.b@msr-it.com",
+      "password": "Vineeth@12345",
+      "Consirtumname": "naveen36"
+    },
+    "Org": {
+      "name": "orgmsr2",
+      "mspid": "msrid2"
+    },
+    "CA": {
+      "name": "CA2",
+      "no": "1"
+    },
+    "orderer": {
+      "name": "orderer2",
+      "no": "1"
+    },
+    "peer": {
+      "name": "peer2",
+      "no": "1",
+      "no1": "1"
+    }
+  }
+}
