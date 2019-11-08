@@ -1,7 +1,7 @@
 const assert = require("assert");
 const data = require(".././mockdata.json").details;
 describe("checks", () => {
-  it("checks", () => {
+  it.skip("checks", () => {
     browser.url("https://dev-app.cloud.hashcorp.com/");
     const title = browser.getTitle();
     assert.equal(title, "Hashcloud Accounts");
